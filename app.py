@@ -10,8 +10,6 @@ page_config = st.set_page_config(
 
 )
 
-
-
 st.sidebar.title("CMatrix")
 st.sidebar.image("img.png")
 st.sidebar.info("A simple Website to perform the matrix operations.")
