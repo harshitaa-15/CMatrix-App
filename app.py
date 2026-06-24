@@ -7,6 +7,7 @@ page_config = st.set_page_config(
     page_icon = "🎛",
     layout = "wide"
 
+    
 )
 
 st.sidebar.title("CMatrix")
