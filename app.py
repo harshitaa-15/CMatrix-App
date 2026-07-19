@@ -2,6 +2,7 @@ import streamlit as st
 import numpy as np
 from sympy import Matrix
 
+
 page_config = st.set_page_config(
     page_title = "CMatrix",
     page_icon = "🎛",
